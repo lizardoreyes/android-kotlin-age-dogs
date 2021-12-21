@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Edad Canina</string>
+    <string name="question_age">¿Cuál es tu edad?</string>
+    <string name="calculate">Calcular</string>
+    <string name="message">Si fueras un perro, tendrias %d años.</string>
+    <string name="no_message">Por favor, ingresa una edad valida.</string>
+</resources>

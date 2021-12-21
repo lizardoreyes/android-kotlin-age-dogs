@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dog Age</string>
+    <string name="question_age">How old are you?</string>
+    <string name="calculate">Calculate</string>
+    <string name="message">If you were a dog, you would be %d years old.</string>
+    <string name="no_message">Please insert a valid age.</string>
+</resources>
